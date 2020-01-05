@@ -148,3 +148,7 @@
 @enabled
 0065E234 48018052
 0065E238 0031881A
+
+// Force Agent 3 Cape [Haxxie]
+@enabled
+01022738 20008052C0035FD6
