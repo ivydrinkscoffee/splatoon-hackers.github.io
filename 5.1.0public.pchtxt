@@ -73,7 +73,7 @@
 
 // Infinite Specials in SR [Haxxie 99]
 @enabled
-000E4FC4 E0FF81D2C0035FD6
+029DAA30 FFFF0000
 
 // 1 Sec Ranked Match [Haxxie]
 @disabled
