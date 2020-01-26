@@ -152,3 +152,18 @@
 // Force Agent 3 Cape [Haxxie]
 @enabled
 01016238 20008052C0035FD6
+
+// Force Load Halloween Decorations [Shadow]
+@disabled
+01346AB0 20008052C0035FD6
+01346B1C 20008052C0035FD6
+
+// Load Frosty Fest Decorations [Shadow + Zewia]
+@disabled
+01346AB0 400080D2C0035FD6
+01346B1C 400080D2C0035FD6
+
+// Load Final Fest + Halloween Decorations [Shadow]
+@disabled
+01346AB0 20008052C0035FD6
+01346B1C 20008052C0035FD6
