@@ -171,3 +171,15 @@
 // Force Octo Expansion Plaza Camera [Shadow]
 @enable
 01154F0C 81008052
+
+// Ink Armor only Effects Everywhere [Haxxie]
+@disabled
+00FFD98C 20008052C0035FD6
+
+// Cool Effect [Haxxie]
+@disabled
+00FFD9D0 20008052C0035FD6
+
+// All Weapons in Salmon Run but Weapon Icons are Broken [Haxxie]
+@disabled
+000865DC 340000F9
