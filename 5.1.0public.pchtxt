@@ -167,3 +167,7 @@
 @disabled
 01346AB0 20008052C0035FD6
 01346B1C 20008052C0035FD6
+
+// Force Octo Expansion Plaza Camera [Shadow]
+@enable
+01154F0C 81008052
