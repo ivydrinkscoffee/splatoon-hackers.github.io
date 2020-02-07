@@ -183,3 +183,7 @@
 // All Weapons in Salmon Run but Weapon Icons are Broken [Haxxie]
 @disabled
 000865DC 340000F9
+
+// Force Octo Expansion Spawn in Plaza [Shadow] [5.1.0]
+@enabled
+00A0B834 E8008052
