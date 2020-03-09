@@ -191,3 +191,35 @@
 // No Spawn Barrier [Haxxie]
 @enabled
 00B655D8 14000014
+
+// Rival Fix [Shadow]
+@enabled
+010DBA70 0D000014
+010DBAD4 E0031FAA
+013B9924 200080D2
+
+// You Are Sanitized Octoling [Haxxie]
+@enabled
+001B371C E0008052
+001B3728 C00C8052
+002F53B8 000A80D2C0035FD6
+
+// You Are Rival Octoling [Haxxie]
+@disabled
+001B371C C0008052
+001B3728 800C8052
+002F53B8 000A80D2C0035FD6
+
+// You Are Elite Rival Octoling [Haxxie]
+@disabled
+001B371C C0008052
+001B3728 A00C8052
+002F53B8 000A80D2C0035FD6
+
+// Weapon Is Rainmaker [Haxxie]
+@enabled
+00FEDEE8 2800805208D82F39
+
+// Better Fly [Haxxie]
+@enabled
+00FF8668 01000014
