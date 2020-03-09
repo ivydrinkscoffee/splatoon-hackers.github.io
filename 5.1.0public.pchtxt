@@ -14,7 +14,7 @@
 014CA738 1F2003D5
 
 // Fly [kgg]
-@enabled
+@disabled
 00FF8620 C0035FD6
 
 // Jump Height Modifier [Haxxie]
