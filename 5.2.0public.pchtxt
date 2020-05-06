@@ -83,7 +83,7 @@
 024B1980 0A2D2D3D
 
 // Force Agent 3 Cape [Haxxie]
-@disabled
+@enabled
 0101F8FC 20008052C0035FD6
 
 // Offline Shop [Zewia]
