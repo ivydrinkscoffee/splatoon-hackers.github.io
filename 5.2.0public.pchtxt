@@ -363,3 +363,10 @@
 @enabled
 00A36918 04000014 // force fest condition in Game::GfxMgr::setupHourImpl_
 00A36930 1C000014 // exit func (Game::GfxMgr::setupHourImpl_)
+
+// Off the hook splatfest locations [Shadow]
+@enabled
+01132240 20008052 // correct setAsProgressOrFestTitle
+00DC20C0 1F2003D5 // enable Game::PlazaFestStage::load_
+00DB13A0 20008052 // correct mtx in Game::NpcIdolNews::stateEnterNews_
+00DB034C 1F2003D5 //  correct mtx in Game::NpcIdolNews::onActivate_
