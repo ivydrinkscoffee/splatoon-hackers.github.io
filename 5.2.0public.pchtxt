@@ -1,6 +1,5 @@
 @nsobid-DA404117DA4A7D6CB1CDB2BCD730582A
 #Splatoon 2 5.2.0 Patches Pack by Haxxie :3
-#Special thanks to Takaharu for helping porting
 #If you get banned you are the one responsible, and there is definetly a chance of you getting banned for using those
  
 @flag offset_shift 0x100
@@ -370,3 +369,17 @@
 00DC20C0 1F2003D5 // enable Game::PlazaFestStage::load_
 00DB13A0 20008052 // correct mtx in Game::NpcIdolNews::stateEnterNews_
 00DB034C 1F2003D5 //  correct mtx in Game::NpcIdolNews::onActivate_
+
+// No Water EnvSet [Haxxie]
+@enabled
+00A22418 0F000014
+
+// Dark Yellow Color hack [Haxxie]
+@disabled
+00144CB4 4862019008812F91
+00144CBC 00410191C0035FD6
+
+// INV000 Gear in Shop [Haxxie]
+@enabled
+0007FCC0 BA000014
+0007FFA8 53008052
