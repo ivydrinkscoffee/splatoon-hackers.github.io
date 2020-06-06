@@ -383,3 +383,10 @@
 @enabled
 0007FCC0 BA000014
 0007FFA8 53008052
+
+// sub_E24D0 - getCurMode (0 = versus)
+// Night Matches [Haxxie]
+@enabled
+00A36918 EEAEDA97A0000035 // Mode = Versus Condition
+00A36920 E8031F3268AA00B9 // Store Value
+00A36928 1E000014 // Exit Function
