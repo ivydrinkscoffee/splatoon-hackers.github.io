@@ -390,3 +390,11 @@
 00A36918 EEAEDA97A0000035 // Mode = Versus Condition
 00A36920 E8031F3268AA00B9 // Store Value
 00A36928 1E000014 // Exit Function
+
+// TurfWar over TwoShot (Worse Version) [Haxxie]
+@disabled
+00A02C7C D8FFFF17
+
+// FreeTest over TwoShot [Haxxie]
+@enabled
+00A02C7C 23000014
