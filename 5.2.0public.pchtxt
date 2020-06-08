@@ -398,3 +398,7 @@
 // FreeTest over TwoShot [Haxxie]
 @enabled
 00A02C7C 23000014
+
+// Slosher Rapidfire [Haxxie]
+@enabled
+0108723C 01000014 
