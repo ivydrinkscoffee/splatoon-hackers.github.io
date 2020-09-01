@@ -23,6 +23,10 @@
 @disabled
 024B1DB0 CDCC5C40
 
+// Swim Everywhere [Haxxie]
+@enabled
+0111FB6C 15000014
+
 // Automatic Ultra Rapidfire Bombs [Haxxie]
 @enabled
 00FE72EC 78000014
@@ -59,13 +63,6 @@
 // Always Movable [Haxxie]
 @enabled
 0100DDB0 45000014
-
-// Swim Everywhere [Devy]
-@disabled
-0101E144 07000014
-0101E110 48008052
-0111FBBC 1F2003D5
-0111F7DC 540080D2
 
 // Force Agent 3 Cape [Haxxie]
 @enabled
@@ -311,10 +308,6 @@
 // Can't Climb The Wall [Takaharu]
 @disabled
 0100A1E8 C0035FD6
-
-// Swim Everywhere [Haxxie]
-@enabled
-0111FB6C 15000014
 
 // Mission Bomb Change (Splash) [Takaharu]
 @disabled
